@@ -1,11 +1,11 @@
 package morty
 
 func WhoAreYou() string {
-	return "Hello iam Morty!"
+	return "My name is Morty_2, I'm a crazy teenager."
 }
 
 func WhoIsRick() string {
-	return "It's a crazy Scientist"
+	return "It's a Сrazy Scientist_2."
 }
 
 func WhereDidYou() string {
