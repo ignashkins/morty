@@ -1,3 +1,3 @@
-module github.com/ignashkins/morty/v2
+module github.com/ignashkins/morty
 
 go 1.19
